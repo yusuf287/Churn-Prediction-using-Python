@@ -25,22 +25,22 @@
     •	Conclusion has been given in 3rd notebook i.e. Step_3_Modeling_and_Validation.ipynb
 
 Following csv files have been attached:
-boxes.csv
+## boxes.csv
     •	subscription_id
     •	box_id
     •	delivey_date (when the box was delivered)
     •	started_week (when the subscription first began)
     •	product (the type of box received)
     •	channel (the marketing channel through which the customer was acquired)
-pauses.csv
+## pauses.csv
     •	subscription_id
     •	pause_start
     •	pause_end
-cancels.csv
+## cancels.csv
     •	subscription_id
     •	event_type (either cancellation or reactivation)
     •	event_date (cancellation effective date)
-errors.csv
+## errors.csv
     •	subscription_id
     •	reported_date (date error was reported)
     •	hellofresh_week_where_error_happened (week box with error was received)
@@ -48,7 +48,7 @@ errors.csv
     •	compensation_amount (amount refunded to customer because of error)
 
 
-Result 
+# Result 
 I have achieved 100% accuracy with Random Forest Classifier.
 
 
