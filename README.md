@@ -49,6 +49,6 @@ Following csv files have been attached:
 
 
 # Result 
-I have achieved 100% accuracy with Random Forest Classifier.
+I have achieved 99.8% accuracy with Random Forest Classifier.
 
 
